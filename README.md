@@ -17,5 +17,5 @@
 <details>
 <summary>You can watch my statistics here</summary>
     <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=rxtsel&show_icons=true&theme=dark&hide_border=true&locale=en" alt="rxtsel"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rxtsel&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="rxtsel" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=rxtsel&show_icons=true&theme=dark&hide_border=true&locale=en" alt="rxtsel" height="165px"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rxtsel&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="rxtsel" height="165px"/>
 </details>
