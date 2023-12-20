@@ -1,7 +1,7 @@
-# Hey everyone, I'm Rxtsel 👋🏾
+# Hey everyone, I'm Cristhian 👋🏾
 
-- I’m interested in Web Development and UI/UX Design. 👨🏾‍💻
-- I'm a Frontend developer but very soon you'll call me Full stack developer 😉
+- I’m interested in Software Development and UI/UX Design. 👨🏾‍💻
+- I'm a Frontend developer but very soon you'll call me Software Engineer 😉
 
 ## 💠  Languages and Tools
 
@@ -28,23 +28,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" height="30" title="Linux">
 </div>
 
-## 💠  Connect with me
-
-<br/>
-
-<div>
-<a href="https://twitter.com/rxtsel/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" width="30" height="30">
-</a>
-
-<a href="https://www.linkedin.com/in/rxtsel/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="30" height="30"">
-</a>
-</div>
-
 <br/>
 
 You can watch my statistics here
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rxtsel&show_icons=true&theme=dark&hide_border=true&locale=en" height="165px"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rxtsel&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" height="165px"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rxtsel&show_icons=true&theme=dark&hide_border=true&locale=en" height="165px"/> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rxtsel&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" height="165px"/>
